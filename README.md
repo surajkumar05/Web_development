@@ -1,2 +1,2 @@
 # Web_development
-Demo tutorial
+Here are some projects on Web Development
